@@ -1,0 +1,17 @@
+# React
+.eslintcache
+
+# Create React App
+*.map
+*.css.map
+
+# Parcel
+.cache/
+.parcel-cache/
+
+# Storybook
+storybook-static/
+
+# Next.js
+.next/
+out/
